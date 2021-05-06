@@ -1,5 +1,5 @@
 # DeepCGSA---Accurate estimation of solvent accessible surface area for coarse-grained biomolecular structures with deep learning
-We provide the python code of DeepCGSA implementation for estimating SASA based on CG structures.
+We provide the python code of DeepCGSA implementation for estimating SASA based on CG structures with our scripts.
 ## Requirements
 ```
 numpy==1.19.4  
