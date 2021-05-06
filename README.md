@@ -42,9 +42,9 @@ Options:
 We provide input files with appropriate format: example_CA.pdb, example_CACB.pdb ......   
 For example, run the following code to estimate SASA of the example Cα pdb file.
 ```
-python DeepCGSA.py -f example_CA.pdb -t CA -o output_filename
+python DeepCGSA.py -f example_CA.pdb -t CA -o prediction
 ```
-The "example.ipynb" provide a simple usage of DeepCGSA
+The "example.ipynb" provide a simple usage of DeepCGSA.
 
 
 
