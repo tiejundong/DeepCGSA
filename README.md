@@ -37,7 +37,7 @@ Options:
                         example: "python DeepCGSA.py -f example_AA.pdb -c CA".
                         Created file will be named as xxx_CGtype.pdb
 ```
-`model_weight` should be copied to current work path with DeepCGSA.py
+`model_weight` should be copied to current work path with DeepCGSA.py together.
 ## Example
 We provide input files with appropriate format: example_CA.pdb, example_CACB.pdb ......   
 For example, run the following code to estimate SASA of the example Cα pdb file.
