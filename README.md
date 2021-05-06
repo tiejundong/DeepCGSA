@@ -44,7 +44,7 @@ For example, run the following code to estimate SASA of the example Cα pdb file
 ```
 python DeepCGSA.py -f example_CA.pdb -t CA -o prediction
 ```
-The "example.ipynb" provides a simple usage of DeepCGSA.
+The `example.ipynb` provides a simple usage of DeepCGSA.
 
 
 
